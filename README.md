@@ -1,1 +1,0 @@
-A pong game developed using Java as a final requirement for the subject Intermediate Programming (CCPRGG2L)
